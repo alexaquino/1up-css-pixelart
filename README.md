@@ -2,6 +2,7 @@
 
 Pixel art with Pure CSS - 1up { Super Mario Bros }
 
+![1up](/uploads/095f5e2eafa31c0546da1ecbc037e71f/1up.mp4)
 
 
 ### Directory Structure

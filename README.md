@@ -2,12 +2,11 @@
 
 Pixel art with Pure CSS - 1up { Super Mario Bros }
 
-![_Captura_de_Tela_2018-07-24_às_22.39.00](/uploads/9d7fcbf270229cf12aa4a968288b6352/_Captura_de_Tela_2018-07-24_às_22.39.00.png)
+![Captura_de_Tela_2018-07-25_às_00.23.53](/uploads/68bdfb04f33195c0e5ca593280026b08/Captura_de_Tela_2018-07-25_às_00.23.53.png)
 
 ### Directory Structure
 
 * `css/` contains css file for index.html
-* `assets/` containing multiple files
 * `index.html` main page
 * `README.md` development documentation
 * `LICENSE.md` License documentation
@@ -30,7 +29,7 @@ A modern web browser:
 ### View the project in your browser
 
 * You can click clone the project to desktop, locate the index.html file and double-click it. This will automatically open the file in your default Web browser. 
-* You can also `access my CodePen:` https://codepen.io/alexaquino/pen/LBOMBe
+* `You can also access my CodePen:` https://codepen.io/alexaquino/pen/LBOMBe
 
 ### License
 

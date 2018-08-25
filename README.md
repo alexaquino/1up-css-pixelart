@@ -2,7 +2,7 @@
 
 Pixel art with Pure CSS - 1up { Super Mario Bros }
 
-![1up](/uploads/095f5e2eafa31c0546da1ecbc037e71f/1up.mp4)
+![Captura_de_Tela_2018-07-25_às_00.23.53](/uploads/68bdfb04f33195c0e5ca593280026b08/Captura_de_Tela_2018-07-25_às_00.23.53.png)
 
 
 ### Directory Structure
